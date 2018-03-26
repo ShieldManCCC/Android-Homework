@@ -1,0 +1,19 @@
+*.iml
+.gitignore.swp
+build/
+.gradle/
+.idea/
+local.properties
+app/build/
+app/libs/
+app/*.iml
+app/proguard-rules.pro
+app/src/androidTest/
+app/src/test/
+app/src/main/java/cl/fjnu/edu/cn/android_myTest
+app/src/main/java/cl/fjnu/edu/cn/android_lab/MainActivity .java
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/captures
+.externalNativeBuild
