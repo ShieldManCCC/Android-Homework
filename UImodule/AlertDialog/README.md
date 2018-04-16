@@ -7,4 +7,4 @@
 
 效果展示：
 
-![image](https://github.com/ShieldManCCC/Android-Homework/edit/master/UImodule/AlertDialog/1.jpg)
+![image](https://github.com/ShieldManCCC/Android-Homework/blob/master/UImodule/AlertDialog/1.jpg)
